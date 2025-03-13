@@ -8,3 +8,5 @@ como primer ejercicio esta es la primera modificacion
 
 ya creamos la segunda y tercera modificacion 
 y agregamos una hoja de estilos css
+
+ahora vamos a practicar algo nuevo
