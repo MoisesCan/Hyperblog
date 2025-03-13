@@ -5,3 +5,6 @@ Veremos que es lo que pasa
 habra muchos avances y ejercicios
 
 como primer ejercicio esta es la primera modificacion
+
+ya creamos la segunda y tercera modificacion 
+y agregamos una hoja de estilos css
